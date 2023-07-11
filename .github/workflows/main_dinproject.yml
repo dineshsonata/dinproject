@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'dinproject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D7BF2DB76E59402589CA52841188C948 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7CAF46A004CD4964879D5743C6C8F76C }}
